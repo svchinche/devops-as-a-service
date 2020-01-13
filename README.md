@@ -17,9 +17,9 @@ Abstract
 ========
 Most of the organization still not using devops tool to make easy their software build cycle to deliver the product customer. 
 There are number of reasons for this
-- They are old project building tool like ant.
-- unable to migrate monolithic application to microservice
-- just now started migrating application to microservice, but the application is too big and started using restapis.
+- Organizations are using old project building tools like ant and unable to shift entire project to Maven & Gradle due framework dependencies.
+- unable to migrate monolithic application to microservices.
+- just now started migrating monolithic application to microservice. since application is too big, they started using restapis and slowly migrating to microservices.
 
 
 Development Phase
