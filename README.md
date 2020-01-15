@@ -24,6 +24,10 @@ There are number of reasons for this
 
 Development Phase
 =================
+
+- For creating on-premise infrastructure, we uses Vagrant  
+- And for creating cloud infrastructure we use terraform. 
+
 I am using eclipse IDE with window builder plugin to create standalone application. </br>
 
 * Please find below screenshots while developing window using eclipse 
